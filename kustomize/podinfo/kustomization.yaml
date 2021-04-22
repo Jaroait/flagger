@@ -1,4 +1,4 @@
-namespace: test
+namespace: shipper-flagger-dev
 resources:
   - hpa.yaml
   - deployment.yaml
